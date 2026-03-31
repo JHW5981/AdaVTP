@@ -1,0 +1,19 @@
+TextVQA, 298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.30
+v1-298M-data-epoch-1-3e-5-0.30
+TextVQA, 298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.50
+v1-298M-data-epoch-1-3e-5-0.50
+TextVQA, 298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.30
+v1-298M-data-epoch-1-3e-5-0.30
+Samples: 5001
+Accuracy: 69.93%
+
+TextVQA, 298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.50
+v1-298M-data-epoch-1-3e-5-0.50
+Samples: 5001
+Accuracy: 68.17%
+
+TextVQA, 298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.75
+v1-298M-data-epoch-1-3e-5-0.75
+Samples: 5001
+Accuracy: 61.10%
+

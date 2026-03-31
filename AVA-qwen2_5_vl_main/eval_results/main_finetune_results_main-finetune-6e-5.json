@@ -1,0 +1,13 @@
+{
+    "A-OKVQA_Throughput": 15.137350750518777,
+    "MMBench_DEV_CN_Throughput": 19.15733416132503,
+    "MMMU_DEV_VAL_Throughput": 17.95280824935978,
+    "TextVQA_VAL_Throughput": 20.5072776266693,
+    "Throughput_Avg": 18.18869269696822,
+    "A-OKVQA_Accuracy": 0.7057291666666666,
+    "MMBench_DEV_CN_Accuracy": 0.7027214022140221,
+    "MMMU_DEV_VAL_Accuracy": 0.3888888888888889,
+    "Accuracy_Avg": 0.5991131525898592,
+    "TextVQA_VAL_Relaxed_Accuracy": 0.12720959595959597,
+    "Relaxed_Accuracy_Avg": 0.12720959595959597
+}

@@ -1,0 +1,96 @@
+POPE, 298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.30
+POPE, 298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.50
+POPE, 298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.75
+POPE, 298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.30
+Category: popular, # samples: 3000
+TP	FP	TN	FN	
+639	648	852	861
+Accuracy: 0.497
+Precision: 0.4965034965034965
+Recall: 0.426
+F1 score: 0.45855758880516684
+Yes ratio: 0.429
+0.459, 0.497, 0.497, 0.426, 0.429
+====================================
+Category: random, # samples: 2910
+TP	FP	TN	FN	
+609	630	825	846
+Accuracy: 0.4927835051546392
+Precision: 0.4915254237288136
+Recall: 0.41855670103092785
+F1 score: 0.4521158129175946
+Yes ratio: 0.42577319587628865
+0.452, 0.493, 0.492, 0.419, 0.426
+====================================
+Category: adversarial, # samples: 3000
+TP	FP	TN	FN	
+677	668	832	823
+Accuracy: 0.503
+Precision: 0.5033457249070632
+Recall: 0.4513333333333333
+F1 score: 0.4759226713532513
+Yes ratio: 0.4483333333333333
+0.476, 0.503, 0.503, 0.451, 0.448
+====================================
+POPE, 298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.50
+Category: popular, # samples: 3000
+TP	FP	TN	FN	
+618	631	869	882
+Accuracy: 0.49566666666666664
+Precision: 0.49479583666933546
+Recall: 0.412
+F1 score: 0.44961804292469987
+Yes ratio: 0.41633333333333333
+0.450, 0.496, 0.495, 0.412, 0.416
+====================================
+Category: random, # samples: 2910
+TP	FP	TN	FN	
+599	613	842	856
+Accuracy: 0.49518900343642613
+Precision: 0.49422442244224424
+Recall: 0.41168384879725084
+F1 score: 0.449193850768654
+Yes ratio: 0.41649484536082476
+0.449, 0.495, 0.494, 0.412, 0.416
+====================================
+Category: adversarial, # samples: 3000
+TP	FP	TN	FN	
+657	649	851	843
+Accuracy: 0.5026666666666667
+Precision: 0.503062787136294
+Recall: 0.438
+F1 score: 0.46828225231646475
+Yes ratio: 0.43533333333333335
+0.468, 0.503, 0.503, 0.438, 0.435
+====================================
+POPE, 298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.75
+Category: popular, # samples: 3000
+TP	FP	TN	FN	
+577	593	907	923
+Accuracy: 0.49466666666666664
+Precision: 0.4931623931623932
+Recall: 0.38466666666666666
+F1 score: 0.4322097378277153
+Yes ratio: 0.39
+0.432, 0.495, 0.493, 0.385, 0.390
+====================================
+Category: random, # samples: 2910
+TP	FP	TN	FN	
+569	587	868	886
+Accuracy: 0.49381443298969074
+Precision: 0.4922145328719723
+Recall: 0.39106529209621993
+F1 score: 0.4358483339716584
+Yes ratio: 0.3972508591065292
+0.436, 0.494, 0.492, 0.391, 0.397
+====================================
+Category: adversarial, # samples: 3000
+TP	FP	TN	FN	
+627	619	881	873
+Accuracy: 0.5026666666666667
+Precision: 0.5032102728731942
+Recall: 0.418
+F1 score: 0.45666423889293517
+Yes ratio: 0.41533333333333333
+0.457, 0.503, 0.503, 0.418, 0.415
+====================================

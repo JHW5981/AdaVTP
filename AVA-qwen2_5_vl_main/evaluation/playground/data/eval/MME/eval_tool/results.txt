@@ -1,0 +1,75 @@
+298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.75
+=========== Perception ===========
+total score: 1524.0540216086436 
+
+	 existence  score: 185.0
+	 count  score: 133.33333333333334
+	 position  score: 160.0
+	 color  score: 173.33333333333334
+	 posters  score: 127.2108843537415
+	 celebrity  score: 131.1764705882353
+	 scene  score: 164.75
+	 landmark  score: 180.25
+	 artwork  score: 124.0
+	 OCR  score: 145.0
+
+
+=========== Cognition ===========
+total score: 561.4285714285714 
+
+	 commonsense_reasoning  score: 141.42857142857142
+	 numerical_calculation  score: 137.5
+	 text_translation  score: 177.5
+	 code_reasoning  score: 105.0
+
+
+MME, 298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.50
+=========== Perception ===========
+total score: 1488.4326730692276 
+
+	 existence  score: 180.0
+	 count  score: 138.33333333333331
+	 position  score: 140.0
+	 color  score: 180.0
+	 posters  score: 120.40816326530611
+	 celebrity  score: 132.94117647058823
+	 scene  score: 155.25
+	 landmark  score: 183.25
+	 artwork  score: 128.25
+	 OCR  score: 130.0
+
+
+=========== Cognition ===========
+total score: 608.2142857142858 
+
+	 commonsense_reasoning  score: 140.71428571428572
+	 numerical_calculation  score: 152.5
+	 text_translation  score: 192.5
+	 code_reasoning  score: 122.5
+
+
+MME, 298M data, 3 epoch, lr 3e-5, batch 4, train_drop_rate 0.30
+=========== Perception ===========
+total score: 1537.4483793517406 
+
+	 existence  score: 190.0
+	 count  score: 148.33333333333331
+	 position  score: 150.0
+	 color  score: 185.0
+	 posters  score: 125.85034013605443
+	 celebrity  score: 131.76470588235293
+	 scene  score: 155.75
+	 landmark  score: 182.0
+	 artwork  score: 131.25
+	 OCR  score: 137.5
+
+
+=========== Cognition ===========
+total score: 617.1428571428571 
+
+	 commonsense_reasoning  score: 137.14285714285717
+	 numerical_calculation  score: 137.5
+	 text_translation  score: 192.5
+	 code_reasoning  score: 150.0
+
+
