@@ -203,7 +203,7 @@ AdaVTP/
 ```
 
 ---
-
+<!-- 
 ## Citation
 
 If you find AdaVTP useful in your research, please consider citing:
@@ -231,4 +231,4 @@ This project builds upon the following excellent open-source works:
 
 <div align="center">
 <i>If you have any questions, please open an issue or contact us.</i>
-</div>
+</div> -->
